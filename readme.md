@@ -32,7 +32,7 @@ python -m pip install -U pip
 python -m pip install -r requirements.txt
 ```
 
-### 1.2 SAM 权重文件
+### 1.2 SAM 权重文件（权重需自行下载，不随仓库提供）
 将 SAM checkpoint 放到：
 
 ```
