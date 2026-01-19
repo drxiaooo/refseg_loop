@@ -1,0 +1,13 @@
+numpy
+opencv-python
+pillow
+tqdm
+pyyaml
+matplotlib
+pycocotools
+torch
+torchvision
+open-clip-torch
+transformers
+accelerate
+datasets
