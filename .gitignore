@@ -4,6 +4,6 @@ checkpoints/
 metrics/
 outputs/
 # figures/
-assets/
+# assets/
 *.pth
 *.npy
